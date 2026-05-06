@@ -5,8 +5,8 @@
 SOC Playbook Assistant is a Python-based security tool that helps analysts quickly respond to incidents by transforming raw alerts and logs into structured, actionable response playbooks.
 It simulates a real Security Operations Center (SOC) workflow by classifying threats, extracting key indicators, and providing step-by-step remediation guidance.
 
-🚀 Live Demo -> (https://socbuddy.streamlit.app)
-🎥 YouTube Demo -> 
+🚀 Live Demo -> https://socbuddy.streamlit.app
+🎥 YouTube Demo ->  https://youtu.be/4xWnWzarofk
 📌 Features:
 
   🔍 Incident Classification
