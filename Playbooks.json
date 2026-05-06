@@ -1,0 +1,33 @@
+{
+    "brute_force": {
+      "title": "Brute Force Attack Response",
+      "steps": [
+        "Identify affected account",
+        "Check login logs and timestamps",
+        "Block source IP",
+        "Force password reset",
+        "Enable MFA",
+        "Monitor for suspicious activity"
+      ]
+    },
+    "phishing": {
+      "title": "Phishing Incident Response",
+      "steps": [
+        "Identify target recipients",
+        "Isolate affected workstations",
+        "Reset credentials for compromised users",
+        "Search mail server for similar subject lines",
+        "Block malicious URL at the firewall/proxy"
+      ]
+    },
+    "malware": {
+      "title": "Malware Outbreak Response",
+      "steps": [
+        "Disconnect infected machine from network",
+        "Identify malware strain and source",
+        "Run full antivirus scan",
+        "Restore from clean backup if necessary",
+        "Patch the vulnerability used for entry"
+      ]
+    }
+  }
